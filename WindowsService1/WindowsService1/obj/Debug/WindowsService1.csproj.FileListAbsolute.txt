@@ -1,0 +1,2 @@
+C:\Users\pblue\Source\Workspaces\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\pblue\Documents\GitHub\Service-Windows-Basic\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
